@@ -1,40 +1,60 @@
-# Easy Prompt - Privacy Policy
+Easy Prompt – Privacy Policy
+Last updated: 07/07/2025
 
-## Data Collection and Usage
+Introduction
+This Privacy Policy explains how Easy Prompt (the Chrome extension) collects, uses, stores, and protects your information. By using Easy Prompt, you agree to the practices described below.
 
-**Easy Prompt** collects minimal data necessary for functionality:
+Data Collection and Usage
+Easy Prompt collects only the minimal data required to provide and improve its functionality.
 
-### Authentication Information
-- Email address and encrypted password for account creation
-- Authentication tokens stored locally in browser
-- User name for personalization
+Authentication Information
+Email address and encrypted password for account creation.
 
-### Usage Analytics
-- Daily prompt optimization count
-- Selected algorithm preferences
-- Feature usage statistics
+Authentication tokens stored locally in your browser for secure login.
 
-### Prompt Content
-- Original prompts are processed temporarily for optimization
-- No prompts are permanently stored on our servers
-- When using private API keys, data never reaches our servers
+User name for personalization within the extension.
 
-## Data Storage and Security
-- Authentication data encrypted and stored securely
-- API keys stored locally in browser only
-- No sensitive data shared with third parties
+Usage Analytics
+Daily prompt optimization count to help improve performance.
 
-## Third-Party Services
-- OpenAI API (when using private keys)
-- Google Gemini API (when using private keys)
-- Railway hosting platform for backend services
+Selected algorithm preferences to tailor your experience.
 
-## Your Rights
-- Delete account and data anytime
-- Export your saved prompts
-- Opt-out of usage analytics
+Feature usage statistics for extension improvement.
 
-## Contact
-For privacy questions: your-email@domain.com
+You may opt out of analytics at any time.
 
-Last updated: [Date]
+Prompt Content
+Original prompts are processed temporarily for optimization purposes.
+
+No prompts are permanently stored on our servers.
+
+When using private API keys, your data never reaches our servers.
+
+Data Storage and Security
+Authentication data is encrypted and stored securely.
+
+API keys are stored locally in your browser and never transmitted to our servers.
+
+No sensitive data is shared with third parties.
+
+Third-Party Services
+Easy Prompt may interact with the following third-party services, but only when you use private API keys:
+
+OpenAI API
+
+Google Gemini API
+
+Railway (for backend hosting services)
+
+Your Rights
+Delete your account and data at any time.
+
+Export your saved prompts for personal use.
+
+Opt out of usage analytics if you prefer not to share usage statistics.
+
+Contact
+If you have any questions or concerns about your privacy, please contact:
+lidorpahima28@gmail.com
+
+This policy may be updated periodically. Continued use of Easy Prompt after changes means you accept the new policy.
